@@ -24,6 +24,7 @@ Science and Analytics programme.
 
 ## Structure
 
+```text
 Applied-Machine-Learning/
 │
 ├── README.md
