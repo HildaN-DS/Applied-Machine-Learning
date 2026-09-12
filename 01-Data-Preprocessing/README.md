@@ -32,6 +32,7 @@ data/mobile_money_statements.csv
 
 ## Structure
 
+```text
 01-Data-Preprocessing-and-Leakage/
 │
 ├── README.md
