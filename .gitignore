@@ -1,0 +1,90 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# IDE / Editor settings
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Operating system files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Logs and temporary files
+# -----------------------------
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# -----------------------------
+# Python packaging / build files
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# Testing / cache
+# -----------------------------
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# -----------------------------
+# Environment / secrets
+# -----------------------------
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# -----------------------------
+# Large / generated ML artifacts
+# Uncomment these if you do NOT
+# want trained models in GitHub
+# -----------------------------
+# *.keras
+# *.h5
+# *.joblib
+# *.pkl
+# *.pickle
+
+# -----------------------------
+# TensorFlow / training outputs
+# -----------------------------
+logs/
+tensorboard/
+
+# -----------------------------
+# Miscellaneous
+# -----------------------------
+*.bak
+*.old

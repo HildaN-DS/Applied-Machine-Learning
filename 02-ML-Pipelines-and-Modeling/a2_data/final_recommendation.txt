@@ -1,0 +1,1 @@
+Deploy LightGBM Tuned with platt calibration and a fraud-flag threshold of 0.0784. On the untouched out-of-time holdout, the model achieved PR-AUC 0.143, ROC-AUC 0.641, and Brier score 0.0756. The selected threshold reduced estimated cost by KES 234,548 per 1,000 transactions relative to the conventional 0.50 threshold.

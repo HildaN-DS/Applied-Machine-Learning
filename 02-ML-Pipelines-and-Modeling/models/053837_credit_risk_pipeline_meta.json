@@ -1,0 +1,26 @@
+{
+  "numerical_cols": [
+    "amount_abs",
+    "log_amt",
+    "hr_sin",
+    "hr_cos",
+    "dow_sin",
+    "dow_cos",
+    "payday_dist",
+    "gps_missing",
+    "recency_days",
+    "frequency",
+    "monetary_out",
+    "monetary_in",
+    "n_counterparty",
+    "cashout_ratio",
+    "out_in_ratio"
+  ],
+  "categorical_cols": [
+    "txn_type",
+    "region",
+    "segment"
+  ],
+  "target": "is_fraud",
+  "group": "customer_id"
+}
